@@ -3,3 +3,10 @@ body {
 }
 
 
+.card > img {
+    max-height: 280px;
+    max-width: 280px;
+    object-fit: cover;
+    padding: 20px;
+}
+
